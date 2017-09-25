@@ -5,6 +5,11 @@ References:
 Algorithm: Tushar Roy's lesson
 Code: From Tushar Roy's repository
 
+Problem Statement: 
+The N Queen Problem is the problem of placing N chess queens on a N×N chessboard so that no two queens attack each other
+
+Date: 25 September, 2017
+
 */
 
 import java.util.Scanner;
