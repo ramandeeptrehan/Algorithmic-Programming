@@ -1,3 +1,12 @@
+/*
+
+References:
+
+Algorithm: Tushar Roy's lesson
+Code: From Tushar Roy's repository
+
+*/
+
 import java.util.Scanner;
 
 public class NQueenProblemBacktracking {
