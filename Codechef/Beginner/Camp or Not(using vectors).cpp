@@ -24,12 +24,15 @@
     Our data structure is not fresh for each test case. Older test case DS is being used in next test cases.
  
     Thus, below code was needed for each test case to have fresh DS (vectors).
+    clear() function is used to remove all the elements of the vector. Hence, making its size as 0.
+ 
     mySchedule.clear();
     myScenario.clear();
  
     This is not needed in Camp or Not.cpp where I am using structures to handle data since there, next test case inserts data from first index.
     But in vectors, we are using push_back
 */
+
 
 #include <iostream>
 #include <vector>
