@@ -1,8 +1,9 @@
 /*
- Problem: https://www.codechef.com/problems/ISITCAKE
+  Problem: https://www.codechef.com/problems/ISITCAKE
  
- Very basic problem.
- Usage of 2D array.
+  Very basic problem.
+  Usage of 2D array.
+ 
  */
 #include <iostream>
 using namespace std;
