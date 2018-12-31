@@ -18,6 +18,11 @@
  
  Lessons learnt: Basic knowledge of handling characters
  
+ ASCII values:
+  0 : 48
+ 'A': 65
+ 'a': 97
+ 
  */
  
 #include <iostream>
