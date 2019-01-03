@@ -9,6 +9,8 @@
   567898765
  67891011109876
  
+ Algorithm has been discussed as part of comments
+ 
  */
 
 #include <iostream>
