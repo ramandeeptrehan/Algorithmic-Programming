@@ -2,8 +2,8 @@
  Daily Coding Problem #164
  Google.
  
- You are given an array of length n + 1 whose elements belong to the set {1, 2, ..., n}. By the pigeonhole principle, there must be a duplicate.
- Find it in linear time and space.
+ You are given an array of length n + 1 whose elements belong to the set {1, 2, ..., n}. By the pigeonhole principle, 
+ there must be a duplicate. Find it in linear time and space.
  
  Algorithm:
  Iterate over the array and look in location i of the array: if arr[i] holds i, then keep going.
